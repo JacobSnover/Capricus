@@ -1,0 +1,7 @@
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\bin\Debug\Capricus.exe.config
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\bin\Debug\Capricus.exe
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\bin\Debug\Capricus.pdb
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\obj\Debug\Capricus.csprojResolveAssemblyReference.cache
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\obj\Debug\Capricus.csproj.CoreCompileInputs.cache
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\obj\Debug\Capricus.exe
+C:\Users\ShaKy\Documents\Visual Studio 2017\Projects\Capricus\Capricus\obj\Debug\Capricus.pdb
